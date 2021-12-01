@@ -1,0 +1,11 @@
+{
+  "name": "xquo",
+  "version": "1.3.2",
+  "description": "A JavaScript framework used to create websites without knowing how to code in HTML and CSS.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
